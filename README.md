@@ -30,4 +30,5 @@
   <h2>Linguagens que vou aprender</h2>
   <img align="center" alt="igor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="igor-R" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
+  <img align="center" alt="igor-Java" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
 </div>
