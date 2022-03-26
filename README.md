@@ -30,4 +30,5 @@
    <br/> <br/><br/>
   <h2>Linguagens que vou aprender</h2>
   <img align="center" alt="igor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img align="center" alt="igor-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/R/R-original.svg">
 </div>
