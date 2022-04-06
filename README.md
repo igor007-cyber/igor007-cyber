@@ -1,12 +1,12 @@
 ### Hi there 👋, my names Igor Ramalho
 
-- 🔭 I am currently working as an intern - Estou trabalhando como estagiário;
+- 🔭 I'm looking for an internship in the area - Eu estou procurando um estagio na area ;
 
-- 🌱 I’m currently learning C/C++ in college and in my home HTML/CSS/JS/Delphi - Estou aprendendo na faculdade C/C++ e na minha casa HTML/CSS/JS/Delphi;  
+- 🌱 I’m currently learning C/C++ in college and in my home HTML/CSS/JS/Python - Estou aprendendo na faculdade C/C++ e na minha casa HTML/CSS/JS/Python;  
 
-- 🤔 I’m looking for help with JS/Python/CSS - Estou procurando ajuda com JS / Python/ CSS;  
+- 🤔 I’m looking for help with JS/Python - Estou procurando ajuda com JS / Python;  
 
-- 💬 Ask me about: I'm a student and I really enjoy the computing area and especially in the area of computer security. And I want to get into big international companies someday - eu sou estudante e gosto muito na area de computação e principalmente na area de segurança da computação. E quero entrar algum dia nas grandes empresas internacionais; 
+- 💬 Ask me about: I'm a student and I really enjoy the computing area and especially in the area of computer security. And I want to get into big international companies someday - eu sou estudante e gosto muito na area de computação e principalmente na área de segurança da computação. E quero entrar algum dia nas grandes empresas internacionais; 
 
 - 📫 How to reach me: igor-ramalho@hotmail.com;
 
