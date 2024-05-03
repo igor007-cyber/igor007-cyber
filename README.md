@@ -8,8 +8,6 @@
 
 - 💬 Ask me about: I'm a student and I really enjoy the computing area and especially in the area of computer security. And I want to get into big international companies someday - eu sou estudante e gosto muito na area de computação e principalmente na área de segurança da computação. E quero entrar algum dia nas grandes empresas internacionais; 
 
-- 📫 How to reach me: igor-ramalho@hotmail.com;
-
 
  <div>
   <a href="https://github.com/igor007-cyber">
@@ -17,7 +15,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor007-cyber&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<a href="https://tryhackme.com/p/Yamotoz" target="_blank"><img src="src/tryhackme.png"  height=100 width=150></a>
   
  <div style="display: inline_block"><br>
   <h2>Linguagens que estou aprendendo</h2> 
@@ -35,5 +32,5 @@
   <img align="center" alt="igor-Java" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
 </div>
 
-
-
+ <br/> <br/><br/>
+ ![snake gif](https://github.com/yamotoz/yamotoz/blob/output/github-contribution-grid-snake.gif)
