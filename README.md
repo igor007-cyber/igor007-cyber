@@ -16,6 +16,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igor007-cyber&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor007-cyber&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+<a href="https://tryhackme.com/p/Yamotoz" target="_blank"><img src="src/tryhackme.png"  height=100 width=150></a>
   
  <div style="display: inline_block"><br>
   <h2>Linguagens que estou aprendendo</h2> 
@@ -32,3 +34,6 @@
    <img align="center" alt="igor-R" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
   <img align="center" alt="igor-Java" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
 </div>
+
+
+
