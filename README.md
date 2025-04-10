@@ -1,12 +1,24 @@
-### Hi there 👋, my names Igor Ramalho
+👋 Olá, eu sou Igor Ramalho! 
 
-- 🔭 I'm looking for an internship in the area - Eu estou procurando um estagio na area ;
+🎓 Estudante de Sistemas de Informação (8º semestre) no IFCE
+💻 Desenvolvedor Full-Stack | Segurança Cibernética | IA
 
-- 🌱 I’m currently learning C/C++ in college and in my home HTML/CSS/JS/Python - Estou aprendendo na faculdade C/C++ e na minha casa HTML/CSS/JS/Python;  
+🔎 Buscando: 
+- Estágio em desenvolvimento de software ou segurança da informação
+- Mentoria em JS/Python
+- Oportunidades em multinacionais de tecnologia
 
-- 🤔 I’m looking for help with JS/Python - Estou procurando ajuda com JS / Python;  
+🛠 Habilidades Técnicas:
+▫️ Linguagens: JavaScript, Python, C/C++, SQL, Delphi
+▫️ Web: HTML/CSS, React, React Native
+▫️ Banco: Mysql, PostgreSQL, Node
+▫️ Segurança: Wireshark, Burp Suite
+▫️ Ferramentas: Git, VS Code, Docker
 
-- 💬 Ask me about: I'm a student and I really enjoy the computing area and especially in the area of computer security. And I want to get into big international companies someday - eu sou estudante e gosto muito na area de computação e principalmente na área de segurança da computação. E quero entrar algum dia nas grandes empresas internacionais; 
+✨ Objetivo: 
+Contribuir para grandes empresas internacionais com soluções inovadoras em tecnologia e segurança!
+
+#OpenToWork #Dev #CyberSecurity
 
 
  <div>
