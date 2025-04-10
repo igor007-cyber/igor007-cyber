@@ -9,11 +9,12 @@
 - Oportunidades em multinacionais de tecnologia
 
 🛠 Habilidades Técnicas:
-▫️ Linguagens: JavaScript, Python, C/C++, SQL, Delphi
-▫️ Web: HTML/CSS, React, React Native
-▫️ Banco: Mysql, PostgreSQL, Node
-▫️ Segurança: Wireshark, Burp Suite
-▫️ Ferramentas: Git, VS Code, Docker
+ <br/>
+▫️ Linguagens: JavaScript, Python, C/C++, SQL, Delphi <br/>
+▫️ Web: HTML/CSS, React, React Native <br/>
+▫️ Banco: Mysql, PostgreSQL, Node <br/>
+▫️ Segurança: Wireshark, Burp Suite <br/>
+▫️ Ferramentas: Git, VS Code, Docker <br/>
 
 ✨ Objetivo: 
 Contribuir para grandes empresas internacionais com soluções inovadoras em tecnologia e segurança!
@@ -29,14 +30,29 @@ Contribuir para grandes empresas internacionais com soluções inovadoras em tec
 
   
  <div style="display: inline_block"><br>
-  <h2>Linguagens que estou aprendendo</h2> 
-  <img align="center" alt="igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
-  <img align="center" alt="igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-   <img align="center" alt="igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<h2>🛠 Tecnologias & Ferramentas</h2>
+
+<!-- Frontend -->
+<h3>Desenvolvimento Frontend</h3>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+<!-- Backend -->
+<h3>Desenvolvimento Backend</h3>
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<!-- Programação de Sistemas -->
+<h3>Programação de Sistemas</h3>
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+
+<!-- Ferramentas -->
+<h3>Ferramentas de Desenvolvimento</h3>
+  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    <br/> <br/><br/>
   <h2>Linguagens que vou aprender</h2>
   <img align="center" alt="igor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
