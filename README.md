@@ -47,7 +47,7 @@ Contribuir para grandes empresas internacionais com soluções inovadoras em tec
 <!-- Programação de Sistemas -->
 <h3>Programação de Sistemas</h3>
   <img align="center" alt="Electron" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
-  <img align="center" alt="Tauri" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" title="Tauri (Rust)">
+  <img align="center" alt="Tauri" height="40" width="90" src="https://tauri.app/_astro/logo.DCjQDXhk.svg" title="Tauri (Rust)">
 
 <!-- Ferramentas -->
 <h3>Ferramentas de Desenvolvimento</h3>
